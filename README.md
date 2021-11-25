@@ -1,6 +1,6 @@
 # Udacity Data Science Nanodegree - Write a Data Science Blog Post
 
-This repository contains the files created and used to analyze historical data of Chilean elections, to complete the first project of Udacity Data Science Nanodegree: **Write a Data Science Blog Post**. 
+This repository contains the files created and used to analyze historical data of Chilean elections, to complete the first project of Udacity Data Science Nanodegree: **Write a Data Science Blog Post**. You can find the blog post on Medium [here](https://medium.com/@pilar.vasquez.h/a-polarized-country-what-happens-till-december-727e619dfb7c).
 
 -----
 ## Motivation
